@@ -1,5 +1,7 @@
 # Meme
 
+[ ![Codeship Status for mcmurrytmgdigital/meme](https://www.codeship.io/projects/f557cb30-e834-0131-c792-5a707d6ee834/status)](https://www.codeship.io/projects/26016)
+
 Contributors: Yuri Victor, Joshua Benton, Matt Montgomery, Ivar Vong
 
 Meme is a generator that Vox Media uses to create social sharing images.

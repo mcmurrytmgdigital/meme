@@ -6,7 +6,7 @@ Contributors: Yuri Victor, Joshua Benton, Matt Montgomery, Ivar Vong
 
 Meme is a generator that Vox Media uses to create social sharing images.
 
-![screenshot](https://raw.githubusercontent.com/yurivictor/meme/master/source/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/yurivictor/meme/master/source/images/screenshot.png) 
 
 ## Install
 
